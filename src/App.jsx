@@ -18,6 +18,7 @@ function App() {
       <div className='bg-red-500'>Hi</div>
       <div className='bg-green-500'>Hello</div>
       <div className='bg-blue-500'>Hey</div>
+      <div className='bg-blue-500'>Hey</div>
     </div>
     </>
   )
